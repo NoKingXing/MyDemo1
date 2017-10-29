@@ -1,9 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
 =======
 =======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of ec181da... Revert "修复bug"
+>>>>>>> parent of 6835156... 修改*1
+=======
 =======
 =======
 >>>>>>> parent of ec181da... Revert "修复bug"
@@ -14,10 +20,14 @@
 再次修改
 修复bug*2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> parent of bd6458c... Revert "修复bug"
 =======
 >>>>>>> parent of 6835156... 修改*1
+=======
+>>>>>>> parent of bd6458c... Revert "修复bug"
+=======
 >>>>>>> parent of 6835156... 修改*1
 >>>>>>> parent of ec181da... Revert "修复bug"
