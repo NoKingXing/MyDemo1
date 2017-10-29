@@ -1,9 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
 =======
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of ec181da... Revert "修复bug"
+>>>>>>> parent of 6835156... 修改*1
 这是新文件
 <<<<<<< HEAD
 修改了
 再次修改
 修复bug*2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of bd6458c... Revert "修复bug"
+=======
+>>>>>>> parent of 6835156... 修改*1
 >>>>>>> parent of ec181da... Revert "修复bug"
